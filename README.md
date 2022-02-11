@@ -30,8 +30,8 @@ The only assets we provide in this challenge are the image of the person in the 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/abdou1981/chat-app-css-illustration-master)
+- Live Site URL: [Add live site URL here](https://abdou1981.github.io/chat-app-css-illustration-master/)
 
 ## My process
 
